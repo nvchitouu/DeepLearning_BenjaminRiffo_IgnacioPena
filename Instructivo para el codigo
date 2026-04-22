@@ -1,0 +1,15 @@
+## Guía de Acceso
+
+Para facilitar la revisión y asegurar que el modelo se ejecute correctamente, siga estas instrucciones paso a paso:
+
+1. Acceder al archivo del cuaderno
+Dentro de este repositorio de GitHub, haga clic en el archivo con la extensión `.ipynb`.
+
+2. Abrir en el entorno de Google Colab
+Una vez que GitHub cargue la previsualización del código, haga clic en el botón azul "abrir en Colab" situado en la parte superior. 
+Esto abrirá el proyecto directamente en la plataforma de Google.
+
+3. Ejecución de las celdas
+Ahora puede ejecutar el código completo de la siguiente manera:
+Presione `Ctrl + F9` o vaya al menú Entorno de ejecución y luego Ejecutar todas.
+El código descargará automáticamente el dataset CIFAR-10 y mostrará los resultados de la arquitectura MLP al final del documento.
